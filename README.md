@@ -6,16 +6,6 @@ frame represents an average of a sequence.
 
 ### Algorithm
 
-Algorithm can be expressed as
+<img src="https://latex.codecogs.com/gif.latex?\dpi{120}&space;\large&space;(\sum_{i=1}^{|&space;\,&space;\chi|&space;\,&space;}&space;\chi_i)&space;\;&space;/&space;\;&space;|\,&space;\chi\,&space;|" title="\large (\sum_{i=1}^{| \, \chi| \, } \chi_i) \; / \; |\, \chi\, |" />
 
-<img src="https://latex.codecogs.com/gif.latex?(\sum_{i=1}^{l}&space;X_i)&space;\;&space;/&space;\;&space;m" title="(\sum_{i=1}^{l} X_i) \; / \; l" />
-
-Where, _l_ is a sequence length and
-
-<img src="https://latex.codecogs.com/gif.latex?X_i&space;\in&space;\mathbb{R}^m^^&space;\times&space;\;&space;n" title="X_i \in \mathbb{R}^m^^ \times \; n" />
-
-
-### Implementation
-
-Sum up all matrices into one matrice and divide this matrix
-by scalar _l_, where _l_ is count of the summed frames.
+<img src="https://latex.codecogs.com/gif.latex?\dpi{120}&space;\large&space;\chi&space;=&space;\left&space;\{&space;x_1,&space;x_2,&space;...&space;,&space;x_n\right&space;\}&space;|&space;x_i&space;\in&space;\mathbb{R}^m^^\times&space;n" title="\large \chi = \left \{ x_1, x_2, ... , x_n\right \} | x_i \in \mathbb{R}^m^^\times n" />
