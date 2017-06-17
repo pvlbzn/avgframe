@@ -41,28 +41,34 @@ a.averengify(path, skip, grab)
 
 ## Outcomes
 
-There is no one unique recepi besides basic video analisys. General rules are the following:
+There is no one unique recipe besides basic video analysis. General rules are the following:
 
 * The more video is centered on some object and more this object 'still' the bigger grab value can be taken
 
-* The more video intense (change of the background, absense of central or 'still' object) the smaller grab value should be
+* The more video intense (change of the background, absence of central or 'still' object) the smaller grab value should be
 
 
-#### 5 frames
+#### 170 Frames, Still
+
+![170 frames](https://github.com/pvlbzn/avgframe/raw/master/outcomes/sum.jpeg
+ "170 frames")
+
+
+#### 5 frames, Action
 
 ![5 frames](https://github.com/pvlbzn/avgframe/raw/master/outcomes/5.jpeg "5 frames")
 
 
-#### 10 frames
+#### 10 frames, Action
 
 ![10 frames](https://github.com/pvlbzn/avgframe/raw/master/outcomes/10.jpeg "10 frames")
 
 
-#### 25 frames
+#### 25 frames, Action
 
 ![25 frames](https://github.com/pvlbzn/avgframe/raw/master/outcomes/25.jpeg "25 frames")
 
 
-#### 50 frames
+#### 50 frames, Action
 
 ![50 frames](https://github.com/pvlbzn/avgframe/raw/master/outcomes/50.jpeg "50 frames")
