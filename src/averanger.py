@@ -7,6 +7,15 @@ from matplotlib import pyplot as plt
 
 
 class Video:
+    '''
+    Video class wraps a subset of opencv functionality
+    which is relevant to program's purpose.
+
+    Class should be used using `with` statement:
+    
+    with Video(path) as video:
+        pass
+    '''
     def __init__(self, path):
         self.path = path
         self.capture = cv2.VideoCapture(self.path)
